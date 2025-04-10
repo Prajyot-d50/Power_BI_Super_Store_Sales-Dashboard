@@ -32,4 +32,4 @@ This project showcases a dynamic and interactive Power BI dashboard built to ana
 
 For questions or collaboration:  
 *Prajyot Dabholkar*  
-[LinkedIn](https://www.linkedin.com/in/YOUR-LINK) | [Email](mailto:your.email@example.com)
+[LinkedIn](https://www.linkedin.com/in/prajyot-dabholkar-43b38335b/) | [Email](prajoytdab@gmail.com)
