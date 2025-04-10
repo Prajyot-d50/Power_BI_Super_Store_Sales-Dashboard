@@ -22,6 +22,9 @@ This project showcases a dynamic and interactive Power BI dashboard built to ana
 
 ![Dashboard Overview](https://github.com/user-attachments/assets/d0272975-a703-4cd5-9d0e-f79c0860e393)
 
+![Screenshot 2025-04-10 143814](https://github.com/user-attachments/assets/a118c8c7-0148-4717-8928-2efc318e2702)
+
+
 ## 📌 Insights & Use Cases
 
 - Identify high-performing regions and products
