@@ -30,8 +30,22 @@ This project showcases a dynamic and interactive Power BI dashboard built to ana
 
 ![Screenshot 2025-06-12 210051]<img width="756" height="414" alt="Screenshot 2025-07-27 140509" src="https://github.com/user-attachments/assets/0823595d-fa88-413b-a2ee-d3b652eb971d" />
 
+## 🔹 Overall Performance
 
+- *Total Sales:* ₹0.17M  
+- *Total Profit:* ₹175.26K  
+- *Total Quantity Sold:* 22K units  
+- *Total Customers:* 773  
+- *Average Daily Sales:* ₹2.44K  
+- *YoY Sales Growth:* ⬇️ -111.97% (significant decline)
 
+## ⚙️ Dynamic Parameters Included
+
+This dashboard allows users to toggle between the following metrics dynamically:
+
+- ✅ *Sales*
+- ✅ *Quantity*
+- ✅ *Profit*
 
 ## 📌 Insights & Use Cases
 
