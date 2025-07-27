@@ -23,11 +23,12 @@ This project showcases a dynamic and interactive Power BI dashboard built to ana
 ![Dashboard Overview]!<img width="1067" height="489" alt="Screenshot 2025-07-27 140151" src="https://github.com/user-attachments/assets/25e2578f-b735-4cc4-9b65-76892a1a3627" />
 
 
-![Screenshot 2025-04-10 143814](https://github.com/user-attachments/assets/a118c8c7-0148-4717-8928-2efc318e2702)
+![Screenshot 2025-04-10 143814]<img width="893" height="489" alt="Screenshot 2025-07-27 140311" src="https://github.com/user-attachments/assets/cbbed12e-5d27-4934-816d-6ce16c8523b9" />
 
-![Screenshot 2025-06-12 210008](https://github.com/user-attachments/assets/c0f88e51-944a-4622-9c12-d50f7d42c030)
+![Screenshot 2025-06-12 210008]<img width="754" height="428" alt="Screenshot 2025-07-27 140433" src="https://github.com/user-attachments/assets/eff515c0-ab3e-4248-9f25-c9e9bcf8e520" />
 
-![Screenshot 2025-06-12 210051](https://github.com/user-attachments/assets/0483505c-eff3-4265-beb2-497d6b9bfee4)
+
+![Screenshot 2025-06-12 210051]<img width="756" height="414" alt="Screenshot 2025-07-27 140509" src="https://github.com/user-attachments/assets/0823595d-fa88-413b-a2ee-d3b652eb971d" />
 
 
 
