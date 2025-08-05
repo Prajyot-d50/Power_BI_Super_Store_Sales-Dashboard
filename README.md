@@ -11,24 +11,17 @@ This project showcases a dynamic and interactive Power BI dashboard built to ana
 - Dynamic Filters by Region, Segment, and Date
 - Year-over-Year Comparison
 
-## 🛠 Tools & Technologies
-
-- Power BI Desktop
-- Power Query (Data Cleaning & Transformation)
-- DAX (Measures & Calculations)
-- Excel (Raw Data Source)
-
 ## 📷 Dashboard Preview
 
-![Dashboard Overview]!<img width="1067" height="489" alt="Screenshot 2025-07-27 140151" src="https://github.com/user-attachments/assets/25e2578f-b735-4cc4-9b65-76892a1a3627" />
+<img width="1067" height="489" alt="Screenshot 2025-07-27 140151" src="https://github.com/user-attachments/assets/25e2578f-b735-4cc4-9b65-76892a1a3627" />
 
 
-![Screenshot 2025-04-10 143814]<img width="893" height="489" alt="Screenshot 2025-07-27 140311" src="https://github.com/user-attachments/assets/cbbed12e-5d27-4934-816d-6ce16c8523b9" />
+<img width="893" height="489" alt="Screenshot 2025-07-27 140311" src="https://github.com/user-attachments/assets/cbbed12e-5d27-4934-816d-6ce16c8523b9" />
 
-![Screenshot 2025-06-12 210008]<img width="754" height="428" alt="Screenshot 2025-07-27 140433" src="https://github.com/user-attachments/assets/eff515c0-ab3e-4248-9f25-c9e9bcf8e520" />
+<img width="754" height="428" alt="Screenshot 2025-07-27 140433" src="https://github.com/user-attachments/assets/eff515c0-ab3e-4248-9f25-c9e9bcf8e520" />
 
 
-![Screenshot 2025-06-12 210051]<img width="756" height="414" alt="Screenshot 2025-07-27 140509" src="https://github.com/user-attachments/assets/0823595d-fa88-413b-a2ee-d3b652eb971d" />
+<img width="756" height="414" alt="Screenshot 2025-07-27 140509" src="https://github.com/user-attachments/assets/0823595d-fa88-413b-a2ee-d3b652eb971d" />
 
 ## 🔹 Overall Performance
 
@@ -52,6 +45,13 @@ This dashboard allows users to toggle between the following metrics dynamically:
 - Identify high-performing regions and products
 - Analyze profit margins across categories
 - Monitor trends over time for strategic planning
+
+## 🛠 Tools & Technologies
+
+- Power BI Desktop
+- Power Query (Data Cleaning & Transformation)
+- DAX (Measures & Calculations)
+- Excel (Raw Data Source)
 
 ## 📬 Contact
 
